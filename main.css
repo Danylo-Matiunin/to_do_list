@@ -334,7 +334,7 @@ header {
 		}
 		
 		body {
-			background-image: url(/rm222batch5-mind-22.jpg);
+			background-image: url(./rm222batch5-mind-22.jpg);
 			background-size: cover; 
 			background-position: center; 
 			background-attachment: fixed; 
@@ -357,7 +357,7 @@ header {
 		}
 
 		.sign-up__body {
-			background-image: url(/rm222batch5-mind-22.jpg);
+			background-image: url(./rm222batch5-mind-22.jpg);
 			background-size: cover;
 			background-position: center;
 			background-attachment: fixed;

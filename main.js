@@ -1,3 +1,4 @@
+"use strict";
 document.addEventListener('DOMContentLoaded', function () {
     const form = document.querySelector("#new-task-form");
     const input = document.querySelector("#new-task-input");

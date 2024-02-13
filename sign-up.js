@@ -1,3 +1,4 @@
+"use strict";
 document.addEventListener('DOMContentLoaded', function () {
     let name = document.querySelector('#name');
     let login = document.querySelector('#login');
